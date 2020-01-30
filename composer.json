@@ -1,11 +1,11 @@
 {
-    "name": "iluminar/goodwork",
-    "description": "Self hosted project management and collaboration tool",
+    "name": "eqilibruim501/projects",
+    "description": "SMART project management and collaboration tool",
     "authors": [
         {
-            "name": "Nehal hasnayeen",
-            "email": "searching.nehal@gmail.com",
-            "homepage": "https://hasnayeen.github.io"
+            "name": "Eqilibruim Solutions",
+            "email": "info@eqilibruimsolutions.com",
+            "homepage": "https://www.eqilibruimsolutions.com"
         }
     ],
     "keywords": ["application", "project management", "team", "project", "task", "messaging", "developer", "self hosted", "container", "laravel", "vue", "tailwindcss"],

@@ -1,5 +1,5 @@
 {
-	"authHost": "https://nginx",
+	"authHost": "https://projects.eqilibruim.xyz",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [
 		{
@@ -11,17 +11,18 @@
 	"databaseConfig": {
 		"redis": {
 			"port": "6379",
-			"host": "redis"
+			"host": "localhost"
+			"password": "Scub@god501"
 		},
 		"sqlite": {
 			"databasePath": "/database/laravel-echo-server.sqlite"
 		}
 	},
 	"devMode": false,
-	"host": "",
+	"host": "projects.eqilibruim.xyz",
 	"port": "6001",
 	"protocol": "https",
 	"socketio": {},
-	"sslCertPath": "/etc/ssl/certs/goodworkfor.life.crt",
-	"sslKeyPath": "/etc/ssl/certs/goodworkfor.life.key"
+	"sslCertPath": "/var/opt/letsencrypt/projects.eqilibruim.xyz/fullchain.pem",
+	"sslKeyPath": "/var/opt/letsencrypt/projects.eqilibruim.xyz/privkey.pem"
 }
